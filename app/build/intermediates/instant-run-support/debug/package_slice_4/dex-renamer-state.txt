@@ -1,0 +1,4 @@
+#Sun Mar 11 23:58:32 PDT 2018
+base.0=/Users/kaikailiu/Documents/Developer/tensorflow-for-poets-2-master/android/tflite/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex

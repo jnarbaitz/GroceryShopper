@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sun Mar 11 23:58:22 PDT 2018
+1.base=/Users/kaikailiu/Documents/Developer/tensorflow-for-poets-2-master/android/tflite/app/build/intermediates/assets/debug
+2.path=labels.txt
+0.baseType=DIRECTORY
+2.base=/Users/kaikailiu/Documents/Developer/tensorflow-for-poets-2-master/android/tflite/app/build/intermediates/assets/debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=BUILD
+0.set=ASSET
+0.base=/Users/kaikailiu/Documents/Developer/tensorflow-for-poets-2-master/android/tflite/app/build/intermediates/assets/debug
+2.baseType=DIRECTORY
+1.path=graph.lite

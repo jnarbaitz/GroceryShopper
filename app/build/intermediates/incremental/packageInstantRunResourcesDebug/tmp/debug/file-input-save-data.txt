@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Wed May 23 14:08:10 PDT 2018
+2.base=C\:\\Users\\Jared\\Desktop\\Store- Checkpoint\\app\\build\\intermediates\\assets\\debug
+0.path=labels.txt
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\Jared\\Desktop\\Store- Checkpoint\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.path=graph.lite
+4.base=C\:\\Users\\Jared\\Desktop\\Store- Checkpoint\\app\\build\\intermediates\\assets\\debug
+count=5
+2.path=retrained_labels.txt
+4.set=ASSET
+3.path=BUILD
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=optimized_graph.pb
+1.baseType=DIRECTORY
+0.base=C\:\\Users\\Jared\\Desktop\\Store- Checkpoint\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=C\:\\Users\\Jared\\Desktop\\Store- Checkpoint\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET
